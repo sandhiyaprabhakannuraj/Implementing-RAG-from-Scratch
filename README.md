@@ -1,1 +1,1 @@
-# Seewise_Prep
+# RAG from Scratch
